@@ -93,6 +93,6 @@ que inicia la aplicacion en la siguiente URL : http://127.0.0.1:8000
 
 * https://github.com/abnergalvez/eqa-evaluation-projects/wiki
 
-## Licecia Laravel
+## Licencia Laravel
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
