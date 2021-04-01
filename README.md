@@ -1,5 +1,5 @@
 <p align="center"><a href="https://eqa.es" target="_blank">
-    <img src="https://github.com/abnergalvez/eqa-evaluation-projects/blob/develop/documentation/images/Logo%20EQA.png" width="400">
+    <img src="https://github.com/abnergalvez/eqa-evaluation-projects/blob/develop/documentation/images/Logo%20EQA.png" width="">
     </a>
 </p>
 
