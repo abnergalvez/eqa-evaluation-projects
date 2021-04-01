@@ -89,7 +89,9 @@ $ php artisan serve
 ```
 que inicia la aplicacion en la siguiente URL : http://127.0.0.1:8000
 
+## Documentacion (en progreso)
 
+* https://github.com/abnergalvez/eqa-evaluation-projects/wiki
 
 ## Licecia Laravel
 
