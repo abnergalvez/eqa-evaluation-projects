@@ -5,9 +5,7 @@
 
 ## Sobre el Proyecto
 
-Esta plataforma es desarrollada para llevar el control y gestión del trabajo de EQA IDI, donde estan sus procesos de evaluación de proyectos e interacciones con expertos, donde estre otras cosas servira como base de datos de expertos y su respectiva mantencion, como asi tambien en el registro de convocatorias, sus proyectos y sus respectivas evaluaciones.
-Tambien se registrara el proceso de seleccion de expertos para evaluar y el seguimiento respectivo (propuestas, respuestas, correcciones, etc).
-Esto sera de gran utilidad ya que a futuro podran automatizarce procesos como el envio de correos, notificaciones, etc...y ya no sera necesario la utilizacion de planillas de calculo para llevar el control general del proceso.
+Esta plataforma es desarrollada para llevar el control y gestión del trabajo de EQA IDI, donde están sus procesos de evaluación de proyectos e interacciones con expertos, donde entre otras cosas servirá como base de datos de expertos y su respectiva mantencion, como así también en el registro de convocatorias, sus proyectos y sus respectivas evaluaciones. También se registrara el proceso de selección de expertos para evaluar y el seguimiento respectivo (propuestas, respuestas, correcciones, etc). Esto sera de gran utilidad ya que a futuro podrán automatizarse procesos como el envío de correos, notificaciones, etc...y ya no sera necesario la utilización de planillas de calculo para llevar el control general del proceso.
 
 
 ## Tecnologias 
