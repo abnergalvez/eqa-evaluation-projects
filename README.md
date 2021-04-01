@@ -10,9 +10,9 @@ Tambien se registrara el proceso de seleccion de expertos para evaluar y el segu
 Esto sera de gran utilidad ya que a futuro podran automatizarce procesos como el envio de correos, notificaciones, etc...y ya no sera necesario la utilizacion de planillas de calculo para llevar el control general del proceso.
 
 
-## Desarrollo 
+## Desarrollo y Tecnologias 
 
-La plataforma esta desarrollada en base de PHP con el Framework<a href="https://laravel.com/" target="_blank">Laravel 8</a> , con incorporacion de 
+La plataforma esta desarrollada en base de PHP con el Framework <a href="https://laravel.com/" target="_blank">Laravel 8</a> , con incorporacion de 
 <a href="https://jetstream.laravel.com" target="_blank">Jetstream</a>Jetstream configurado con <a href="https://laravel-livewire.com/" target="_blank">Livewire</a> y <a href="https://tailwindcss.com" target="_blank">Tailwind</a>
 
 
